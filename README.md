@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sebastian.
-- 👀 I’m interested in coding, gaming, cooking and travelling.
+- 👀 I’m interested in coding, gaming, cooking and traveling.
 - 🌱 I’m currently taking a online course on computer science.
 - 📫 You can reach me on [twitter](https://twitter.com/justseba).
 
