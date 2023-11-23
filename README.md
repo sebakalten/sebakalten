@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sebastian.
 - 👀 I’m interested in coding, gaming, cooking and traveling.
 - 🌱 I’m currently taking a online course on computer science.
-- 📫 You can reach me on [twitter](https://twitter.com/justseba).
+- 📫 You can reach me on [twitter](https://twitter.com/sebakalten).
 
 <!---
 sebakalten/sebakalten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
